@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AppSwizzle'
-  s.version          = '1.4.0'
+  s.version          = '1.4.1'
   s.summary          = 'lightweight and flexible method swizzling wrapped by swift.'
   s.swift_version          = '4.0'
   
